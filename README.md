@@ -1,4 +1,4 @@
-# 🚆 Train Management System
+# 🚆 RailReserve - Train Management System
 
 A Java-based application for efficiently managing train operations including scheduling, seat availability, and passenger bookings.
 
@@ -20,7 +20,7 @@ A Java-based application for efficiently managing train operations including sch
 
 ## 📘 About
 
-The **Train Management System** is a command-line interface (CLI) application built in Java to simulate and manage railway operations. Following a strict **layered architecture**, the system decouples presentation from logic and database interactions. It provides role-based functionality for **administrators** and **passengers** to interact with train schedules, coach capacities, and ticket reservations.
+The **RailReserve** is a command-line interface (CLI) application built in Java to simulate and manage railway operations. Following a strict **layered architecture**, the system decouples presentation from logic and database interactions. It provides role-based functionality for **administrators** and **passengers** to interact with train schedules, coach capacities, and ticket reservations.
 
 ---
 
